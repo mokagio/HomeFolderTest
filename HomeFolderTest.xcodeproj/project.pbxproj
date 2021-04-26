@@ -21,7 +21,7 @@
 		3F0C79162636578B00A0A424 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F0C79192636578B00A0A424 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F0C791B2636578B00A0A424 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F0C793426367DAB00A0A424 /* HelloKit */ = {isa = PBXFileReference; lastKnownFileType = folder; name = HelloKit; path = ../../../HelloKit; sourceTree = "<group>"; };
+		3F0C793426367DAB00A0A424 /* HelloKit */ = {isa = PBXFileReference; lastKnownFileType = folder; name = HelloKit; path = "~/HelloKit"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
